@@ -133,6 +133,8 @@
         </pluginRepository>
     </pluginRepositories>
     
+    <!-- This is a commit for copado deployment -->
+    
     <distributionManagement>
         <repository>
             <id>MuleRepository</id>
