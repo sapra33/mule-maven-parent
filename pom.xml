@@ -7,13 +7,13 @@
 	<artifactId>mule-maven-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <packaging>pom</packaging>
-	<name>mule-maven-parent</name>
+	<name>mule-maven-parents</name>
       <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<app.runtime>4.5.1</app.runtime>
 		<mule.maven.plugin.version>4.1.1</mule.maven.plugin.version>
-		<exchange.mule.maven.plugin>0.0.8</exchange.mule.maven.plugin>
+		<exchange.mule.maven.plugin>0.0.13</exchange.mule.maven.plugin>
 		<type>custom</type>
 	</properties>
 	<build>
