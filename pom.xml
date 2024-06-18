@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>636635e7a-e8a0-4978-8d59-12054e3c34c8</groupId>
-	<artifactId>mule-maven-parents</artifactId>
+	<artifactId>mule-maven-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <packaging>pom</packaging>
-	<name>mule-maven-parents</name>
+	<name>mule-maven-parent</name>
       <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
