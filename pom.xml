@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>636635e7a-e8a0-4978-8d59-12054e3c34c8</groupId>
+	<groupId>36635e7a-e8a0-4978-8d59-12054e3c34c8</groupId>
 	<artifactId>mule-maven-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <packaging>pom</packaging>
@@ -137,7 +137,7 @@
         <repository>
             <id>anypoint-exchange-v3</id>
             <name>Corporate Repository</name>
-            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/636635e7a-e8a0-4978-8d59-12054e3c34c8/maven</url>
+            <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/36635e7a-e8a0-4978-8d59-12054e3c34c8/maven</url>
             <layout>default</layout>
         </repository>
     </distributionManagement>
