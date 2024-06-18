@@ -13,7 +13,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<app.runtime>4.5.1</app.runtime>
 		<mule.maven.plugin.version>4.1.1</mule.maven.plugin.version>
-		<exchange.mule.maven.plugin>0.0.15</exchange.mule.maven.plugin>
+		<exchange.mule.maven.plugin>0.0.8</exchange.mule.maven.plugin>
 		<type>custom</type>
 	</properties>
 	<build>
